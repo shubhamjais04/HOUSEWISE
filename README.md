@@ -1,6 +1,6 @@
 # 🏠HOUSEWISE: A Real Estate Price Predictor Using Machine Learning
 
-A machine learning project that predicts house prices based on property features using Random Forest Regressor.
+A machine learning project that predicts house prices based on property features using Machine Learning.
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
@@ -264,4 +264,5 @@ If you found this project helpful, please give it a ⭐!
 **Version:** 1.0.0
 
 ---
+
 
