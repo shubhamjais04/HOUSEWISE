@@ -26,7 +26,7 @@ Living area (sqft)
 Lot size (sqft)
 Number of floors
 
-What I Did:
+What I Did
 
 Cleaned the data - handled missing values, removed outliers
 Explored patterns - made some plots to see how features relate to price
@@ -78,6 +78,7 @@ Email: shubhjais.in@gmail.com
 LinkedIn: linkedin.com/in/shubhamjaiswal2004
 
 Note: This was my first proper ML project, so the code might not be perfect. Always learning and improving!
+
 
 
 
