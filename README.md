@@ -3,7 +3,7 @@ Hey! This is my machine learning project where I predict house prices using some
 What This Project Does
 Takes in details about a house (like bedrooms, bathrooms, square footage) and predicts how much it might sell for. I used data from King County, Seattle to train the model.
 Why I Built This
-I wanted to understand how machine learning actually works beyond just theory. House price prediction seemed like a good starting point because:
+I wanted to understand how machine learning actually works beyond just theory. House price prediction seemed like a good starting point because
 
 The problem is easy to understand
 There's plenty of data available
@@ -78,6 +78,7 @@ Email: shubhjais.in@gmail.com
 LinkedIn: linkedin.com/in/shubhamjaiswal2004
 
 Note: This was my first proper ML project, so the code might not be perfect. Always learning and improving!
+
 
 
 
