@@ -18,7 +18,7 @@ scikit-learn - building the models
 Jupyter Notebook - running and testing everything
 
 The Dataset
-I used the King County House Sales dataset which has around 21,000 house sales. For this project, I focused on just 5 features to keep things simple:
+I used the King County House Sales dataset which has around 21,000 house sales. For this project, I focused on just 5 features to keep things simple
 
 Number of bedrooms
 Number of bathrooms
@@ -78,6 +78,7 @@ Email: shubhjais.in@gmail.com
 LinkedIn: linkedin.com/in/shubhamjaiswal2004
 
 Note: This was my first proper ML project, so the code might not be perfect. Always learning and improving!
+
 
 
 
