@@ -9,7 +9,7 @@ The problem is easy to understand
 There's plenty of data available
 I could actually see if my predictions made sense
 
-What I Used:
+What I Used
 
 Python - for everything
 pandas & numpy - data cleaning and manipulation
@@ -78,6 +78,7 @@ Email: shubhjais.in@gmail.com
 LinkedIn: linkedin.com/in/shubhamjaiswal2004
 
 Note: This was my first proper ML project, so the code might not be perfect. Always learning and improving!
+
 
 
 
